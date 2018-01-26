@@ -1,0 +1,70 @@
+GIt Commands to use
+
+1. install git, easier usign bash
+
+Use git init to initialize the folder as a git repo
+
+Before starting always add your name and email address to the console
+You can do this by using 
+git config --global user.name 'yourname'
+git config --global user.email 'youremail'
+
+To aadd files to the staging area, files for which changes are to be tracked,
+use: git add <filename> or git add *.file_extension or git add . ----- to add all files.
+
+To say the files are final use commit command - Use compulsary
+git commit -m 'Type your message here, mention what you changed'.
+
+If there are any files that you want to ignore use 
+step 1: touch .gitignore
+step 2: touch file.txt
+
+Use of branches.
+you dont want the main code base changed ex, this is a skeleton website, the changes to this
+should not be committed as long as the functionalities are finalized.
+Hence you make a new branch.
+
+To make a branch
+git branch <branch name> -- Keep branch names according to the functionality you are using. No need to create new brnaches every time.
+to change the brach from master to the branch use
+git checkout <branch_u want to use>
+I am already making a branch for roshini to work on called tables called the same.
+
+Once u clone the repository, make sure you are working under the right branch.
+
+Once you finsih implementing the functionality you can commit changes to the master.
+It is imperative that you finish working on the branch and that later can be merged into the master.
+- After finishing you can merge your respective branch to the master 
+using git checkout master
+and then use git merge <branch_name>
+- This is to be followed just so that the master repo is not effected. Also include why this merge is necessary.
+
+Once done you can use push the changes to the git hub account
+use command git remote add origin https://.....................filename.git
+
+
+---- For Using the repository----
+1. You can use this address to navigate to the git hub repo using https://github.com/SiddharthLucky/Capstone_2018
+2. Make a new folder in it you can use git clone https://github.com/SiddharthLucky/Capstone_2018.git
+itll make a folder for you with all the files in it.
+3. When you make a change make sure u use git pull to make sure everything is uptodate
+
+Please take time to watch this, this is pretty much how i learnt.
+
+
+
+----New Copy to use-----
+…or create a new repository on the command line
+
+echo "# Capstone_2018_Final" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/SiddharthLucky/Capstone_2018_Final.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/SiddharthLucky/Capstone_2018_Final.git
+git push -u origin master
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
