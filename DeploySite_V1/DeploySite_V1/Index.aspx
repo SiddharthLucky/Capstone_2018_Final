@@ -9,7 +9,7 @@
     <meta name="description" content=""/>
     <meta name="author" content=""/>
 
-    <title>Team Name -</title>
+    <title>VRInGame -</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
@@ -73,7 +73,7 @@
         <div class="row h-100">
           <div class="col-lg-7 my-auto">
             <div class="header-content mx-auto">
-              <h1 class="mb-5">Short abstract description</h1>
+              <h1 class="mb-5">Imagine leaving a dull, stressful day behind and slipping into a magical world underwater.</h1>
               <a href="#intro" class="btn btn-outline btn-xl js-scroll-trigger">Explore</a>
             </div>
           </div>
@@ -101,7 +101,9 @@
         <div class="row">
           <div class="col-md-8 mx-auto">
             <h2 class="section-heading">What we are about</h2>
-            <p>Make intro as long as possible</p>
+            <p>
+The experience begins with collecting the breathing signal’s via a sensor attached to the subjects’s body. This short breathing exercise takes you to a world of water animals where a dolphin ,chasing a puffer fish is controlled by the inspiratory and expiratory phases of respiration. The breathing signal will interact with the scene in VR simultaneously delivering an electrical stimulus when the inspiration reaches a preset target.
+</p>
             <%--<div class="badges">
               <a class="badge-link" href="#"><img src="img/google-play-badge.svg" alt=""></a>
               <a class="badge-link" href="#"><img src="img/app-store-badge.svg" alt=""></a>
@@ -142,16 +144,24 @@
                   <div class="feature-item">
                     <%--<i class="icon-screen-smartphone text-primary"></i>--%>
                     <img src="img/sdl_logo.png" class="img-fluid" alt="">
-                    <h3>Mentor 1</h3>
-                    <p class="text-muted">Description</p>
+                    <h3>Dr. Zhandong Liu</h3>
+                    <p class="text-muted">Dr. Liu is an assistant professor of Pediatrics-Neurology at the Baylor college of medicine. His research interests include Genomics, Transcription regulation, Disease genes prioritization and Machine learning. He is currently a member of International society of Computational Biology and managing Editor for International Journal of Computational Biology and Drug design.</p>
                   </div>
                 </div>
                 <div class="col-lg-6">
                   <div class="feature-item">
                     <%--<i class="icon-camera text-primary"></i>--%>
                     <img src="img/sdl_logo.png" class="img-fluid" alt="">
-                    <h3>Mentor 2</h3>
-                    <p class="text-muted">Description</p>
+                    <h3>Dr. Sheng Li</h3>
+                    <p class="text-muted">Dr. Li is an associate Professor of Physical Medicine & Rehabilitation at McGovern Medical School, UTHealth. His research interests include Pathophysiology and management of spasticity, Non-pharmacological intervention for neuropathic pain management. He developed a new intervention called BreEStim effective in managing the analgesic pain. He is currently a regular member of the Motor Function, Speech and Rehabilitation (MFSR) study section at NIH.</p>
+                  </div>
+                </div>
+                  <div class="col-lg-6">
+                  <div class="feature-item">
+                    <%--<i class="icon-screen-smartphone text-primary"></i>--%>
+                    <img src="img/sdl_logo.png" class="img-fluid" alt="">
+                    <h3>Dr. Kewei Sha, Ph.D.</h3>
+                    <p class="text-muted">Dr. Kewei Sha is an Associate Director of Cyber Security Institute and Assistant Professor of Computer Science at University of Houston - Clear Lake (UHCL). His research interests include Internet of Things, Cyber-Physical Systems, Edge Computing, Security and Privacy, and Data Management and Analytics.</p>
                   </div>
                 </div>
               </div>
@@ -208,7 +218,7 @@
                     <img src="img/sdl_logo.png" class="img-fluid" alt="">
                     <%--<i class="icon-screen-smartphone text-primary"></i>--%>
                     <h3>Siddharth Lucky</h3>
-                    <p class="text-muted">Description</p>
+                    <p class="text-muted">A cynic is a man who knows the proce of everything, and the value of nothing.</p>
                   </div>
                 </div>
                 <div class="col-lg-6">
@@ -226,7 +236,7 @@
                     <img src="img/sdl_logo.png" class="img-fluid" alt="">
                     <%--<i class="icon-present text-primary"></i>--%>
                     <h3>Vipasha Rana</h3>
-                    <p class="text-muted">Description</p>
+                    <p class="text-muted">Planning and decision making are  two basic pillars for a successful project.</p>
                   </div>
                 </div>
                 <div class="col-lg-6">
@@ -234,7 +244,7 @@
                     <img src="img/sdl_logo.png" class="img-fluid" alt="">
                     <%--<i class="icon-lock-open text-primary"></i>--%>
                     <h3>Roshini</h3>
-                    <p class="text-muted">Description</p>
+                    <p class="text-muted">The good life is to be earned with hard work and sacrifice.</p>
                   </div>
                 </div>
               </div>
@@ -281,7 +291,7 @@
 
     <footer>
       <div class="container">
-        <p>&copy; Your Website 2018. All Rights Reserved.</p>
+        <p>&copy; Capstone Website 2018. All Rights Reserved.</p>
         <%--<ul class="list-inline">
           <li class="list-inline-item">
             <a href="#">Privacy</a>

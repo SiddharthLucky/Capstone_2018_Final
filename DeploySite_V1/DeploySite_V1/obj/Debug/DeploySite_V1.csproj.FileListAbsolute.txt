@@ -30,3 +30,4 @@ C:\Users\siddh\Desktop\Capstone\IntroSite_V1\DeploySite_V1\DeploySite_V1\bin\Mic
 C:\Users\siddh\Desktop\Capstone\IntroSite_V1\DeploySite_V1\DeploySite_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\siddh\Desktop\Capstone\IntroSite_V1\DeploySite_V1\DeploySite_V1\obj\Debug\DeploySite_V1.dll
 C:\Users\siddh\Desktop\Capstone\IntroSite_V1\DeploySite_V1\DeploySite_V1\obj\Debug\DeploySite_V1.pdb
+C:\Users\siddh\Desktop\Capstone\IntroSite_V1\DeploySite_V1\DeploySite_V1\obj\Debug\DeploySite_V1.csprojResolveAssemblyReference.cache
