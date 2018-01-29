@@ -73,7 +73,8 @@
         <div class="row h-100">
           <div class="col-lg-7 my-auto">
             <div class="header-content mx-auto">
-              <h1 class="mb-5">Imagine leaving a dull, stressful day behind and slipping into a magical world underwater.</h1>
+              <h1 class="mb-5">Imagine leaving a dull, stressful day behind and slipping into a magical world underwater.
+</h1>
               <a href="#intro" class="btn btn-outline btn-xl js-scroll-trigger">Explore</a>
             </div>
           </div>
@@ -102,7 +103,7 @@
           <div class="col-md-8 mx-auto">
             <h2 class="section-heading">What we are about</h2>
             <p>
-The experience begins with collecting the breathing signal’s via a sensor attached to the subjects’s body. This short breathing exercise takes you to a world of water animals where a dolphin ,chasing a puffer fish is controlled by the inspiratory and expiratory phases of respiration. The breathing signal will interact with the scene in VR simultaneously delivering an electrical stimulus when the inspiration reaches a preset target.
+ That’s the vision of BrEStim, a new intervention in the world of virtual reality where subjects are immersed into a virtual environment leaving them calm and de-stressed. The experience begins with collecting the breathing signal’s via a sensor attached to the subjects’s body. This short breathing exercise takes you to a world of water animals where a dolphin ,chasing a puffer fish is controlled by the inspiratory and expiratory phases of respiration. The breathing signal will interact with the scene in VR simultaneously delivering an electrical stimulus when the inspiration reaches a preset target.
 </p>
             <%--<div class="badges">
               <a class="badge-link" href="#"><img src="img/google-play-badge.svg" alt=""></a>
@@ -140,7 +141,7 @@ The experience begins with collecting the breathing signal’s via a sensor atta
           <div class="col-lg-12 my-auto">
             <div class="container-fluid">
               <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-4">
                   <div class="feature-item">
                     <%--<i class="icon-screen-smartphone text-primary"></i>--%>
                     <img src="img/sdl_logo.png" class="img-fluid" alt="">
@@ -148,15 +149,15 @@ The experience begins with collecting the breathing signal’s via a sensor atta
                     <p class="text-muted">Dr. Liu is an assistant professor of Pediatrics-Neurology at the Baylor college of medicine. His research interests include Genomics, Transcription regulation, Disease genes prioritization and Machine learning. He is currently a member of International society of Computational Biology and managing Editor for International Journal of Computational Biology and Drug design.</p>
                   </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-4">
                   <div class="feature-item">
                     <%--<i class="icon-camera text-primary"></i>--%>
                     <img src="img/sdl_logo.png" class="img-fluid" alt="">
                     <h3>Dr. Sheng Li</h3>
-                    <p class="text-muted">Dr. Li is an associate Professor of Physical Medicine & Rehabilitation at McGovern Medical School, UTHealth. His research interests include Pathophysiology and management of spasticity, Non-pharmacological intervention for neuropathic pain management. He developed a new intervention called BreEStim effective in managing the analgesic pain. He is currently a regular member of the Motor Function, Speech and Rehabilitation (MFSR) study section at NIH.</p>
+                    <p class="text-muted">Dr. Li is an associate Professor of Physical Medicine & Rehabilitation at McGovern Medical School, UTHealth. His research interests include Pathophysiology and management of spasticity. He developed a new intervention called BreEStim effective in managing the analgesic pain. He is currently a regular member of the Motor Function, Speech and Rehabilitation (MFSR) study section at NIH.</p>
                   </div>
                 </div>
-                  <div class="col-lg-6">
+                  <div class="col-lg-4">
                   <div class="feature-item">
                     <%--<i class="icon-screen-smartphone text-primary"></i>--%>
                     <img src="img/sdl_logo.png" class="img-fluid" alt="">
@@ -215,7 +216,7 @@ The experience begins with collecting the breathing signal’s via a sensor atta
               <div class="row">
                 <div class="col-lg-6">
                   <div class="feature-item">
-                    <img src="img/sdl_logo.png" class="img-fluid" alt="">
+                    <img src="img/lu.jpg" class="img-fluid" alt="" width =50%>
                     <%--<i class="icon-screen-smartphone text-primary"></i>--%>
                     <h3>Siddharth Lucky</h3>
                     <p class="text-muted">A cynic is a man who knows the proce of everything, and the value of nothing.</p>
@@ -223,17 +224,17 @@ The experience begins with collecting the breathing signal’s via a sensor atta
                 </div>
                 <div class="col-lg-6">
                   <div class="feature-item">
-                    <img src="img/sdl_logo.png" class="img-fluid" alt="">
+                    <img src="img/te.jpeg" class="img-fluid" alt="" width =50%>
                     <%--<i class="icon-camera text-primary"></i>--%>
                     <h3>Krishna Teja</h3>
-                    <p class="text-muted">Description</p>
+                    <p class="text-muted">Success doesn't come from what you do occasionally. It comes from what you do consistently.</p>
                   </div>
                 </div>
               </div>
               <div class="row">
                 <div class="col-lg-6">
                   <div class="feature-item">
-                    <img src="img/sdl_logo.png" class="img-fluid" alt="">
+                    <img src="img/vi.jpg" class="img-fluid" alt="" width =50%>
                     <%--<i class="icon-present text-primary"></i>--%>
                     <h3>Vipasha Rana</h3>
                     <p class="text-muted">Planning and decision making are  two basic pillars for a successful project.</p>
@@ -241,7 +242,7 @@ The experience begins with collecting the breathing signal’s via a sensor atta
                 </div>
                 <div class="col-lg-6">
                   <div class="feature-item">
-                    <img src="img/sdl_logo.png" class="img-fluid" alt="">
+                    <img src="img/ro.jpg" class="img-fluid" alt="" width =50%>
                     <%--<i class="icon-lock-open text-primary"></i>--%>
                     <h3>Roshini</h3>
                     <p class="text-muted">The good life is to be earned with hard work and sacrifice.</p>
@@ -257,8 +258,9 @@ The experience begins with collecting the breathing signal’s via a sensor atta
     <section class="cta">
       <div class="cta-content">
         <div class="container">
-          <h2>Think of content or can delete</h2>
-          <a href="#contact" class="btn btn-outline btn-xl js-scroll-trigger">Button</a>
+          <h2>Detailed reports of our meetings so far.</h2>
+          <a href="#meetings" class="btn btn-outline btn-xl js-scroll-trigger">Button</a><br />
+          <a href="#meetings" class="btn btn-outline btn-xl js-scroll-trigger">Button</a>
         </div>
       </div>
       <div class="overlay"></div>
