@@ -1,0 +1,10 @@
+Meeting Minutes #14
+Team Name: VRInGame
+Date & Time: 04/20/2018, 2:00 p.m. – 4.00 p.m.,
+Location: Delta
+Attendees: Dr. Sheng Li, Roshini Gnanamoorthy, Vipasha Rana, Siddharth Lucky Reddy, Krishna Teja Talasila
+
+Topics discussed:
+1) Integrate the project. 
+2) Demostrated to the project mentor. 
+3) Successfully tested the DAC device and real-time plotting. 

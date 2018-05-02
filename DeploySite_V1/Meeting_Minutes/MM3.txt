@@ -1,0 +1,18 @@
+Meeting Minutes #3
+Team Name: VRInGame
+Date & Time: 02/04/2018, 2:00 p.m. – 4.00 p.m.,
+Location: Delta
+Attendees: Roshini Gnanamoorthy, Vipasha Rana, Siddharth Lucky Reddy, Krishna Teja Talasila
+
+Topics discussed:  
+1. Deployed the project website.
+2. Working on terrains and wire meshes, physical densities of the objects.
+3. Gathering the sensors and interfaces required to connect them in the project.
+
+Action Items: 
+1. Working on the requirement analysis report.
+Expected Completion Time: within 1 week
+2. Work on Requirement Document. 
+Expected Completion Time: within 1 week
+3. Prepare for presentation on Requirement Document.
+Expected Completion Time: within 1 week

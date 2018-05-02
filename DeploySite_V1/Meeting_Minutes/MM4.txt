@@ -1,0 +1,10 @@
+Meeting Minutes #4
+Team Name: VRInGame
+Date & Time: 02/11/2018, 2:00 p.m. – 3:45 p.m.,
+Location: Delta
+Attendees: Roshini Gnanamoorthy, Vipasha Rana, Siddharth Lucky Reddy, Krishna Teja Talasila
+
+Topics discussed: 
+1. Presentation on Requirement document. 
+2. Working on terrains and wire meshes, physical densities of the objects.
+3. Discussion on sensors and interfaces required to connect them in the project.

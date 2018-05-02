@@ -1,0 +1,10 @@
+Meeting Minutes #11
+Team Name: VRInGame
+Date & Time: 04/04/2018, 10:00 a.m. – 02:00 p.m.,
+Location: Delta
+Attendees: Dr. Sheng Li, Dr. Kewei Sha, Roshini Gnanamoorthy, Vipasha Rana, Siddharth Lucky Reddy, Krishna Teja Talasila
+
+Topics discussed: 
+1) Show a demonstration of our project.
+2) Install Matlab to test the code with DAQ device. 
+

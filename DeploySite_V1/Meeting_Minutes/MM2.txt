@@ -1,0 +1,17 @@
+Meeting Minutes #2
+Team Name: VRInGame
+Date & Time: 02/01/2018, 10:15 a.m. – 12:00 a.m.,
+Location: TIRR Memorial Hermann and McGovern Medical School at UTHealth
+Attendees: Dr. Sheng Li, Dr. Kewei Sha, Roshini Gnanamoorthy, Vipasha Rana, Siddharth Lucky Reddy, Krishna Teja Talasila
+
+Topics discussed: 
+1. Discussion on the detailed overview of the project
+2. Discussion about requirements of the project.
+3. To know about how it works on practical environment.
+
+Action Items: 
+1. Work on Requirement Document. 
+Expected Completion Time: 02/05/2018
+
+2. Work on creating 3D outer terrain on unity.
+Expected Completion Time: Within a week. 

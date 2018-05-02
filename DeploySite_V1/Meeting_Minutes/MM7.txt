@@ -1,0 +1,10 @@
+Meeting Minutes #7
+Team Name: VRInGame
+Date & Time: 03/02/2018, 10:00 a.m. – 12.00 p.m.,
+Location: TIRR Memorial Hermann and McGovern Medical School at UTHealth
+Attendees: Dr. Sheng Li, Roshini Gnanamoorthy, Krishna Teja Talasila
+
+Topics discussed: 
+1. Overlook of the sensors and checked how it works. 
+2. Analysis of DAC device and its port
+3. Work on Unity and enhancements of underwater scene. 

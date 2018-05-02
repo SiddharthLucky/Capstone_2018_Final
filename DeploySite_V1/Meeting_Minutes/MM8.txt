@@ -1,0 +1,10 @@
+Meeting Minutes #8
+Team Name: VRInGame
+Date & Time: 03/04/2018, 2:00 p.m. – 4.00 p.m.,
+Location: Delta
+Attendees: Roshini Gnanamoorthy, Vipasha Rana, Siddharth Lucky Reddy, Krishna Teja Talasila
+
+Topics discussed: 
+1. Work on the dolphin movement, fish generation and random movement using AI
+2. Analyzis of the csv file to declare the threshold.
+4. Check on the socket communication between matlab and unity. 

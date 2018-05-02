@@ -1,0 +1,27 @@
+Meeting Minutes #1
+Team Name: VRInGame
+Date & Time: 01/26/2018, 10:20 a.m. – 11:30 a.m.,
+Location: Delta
+Attendees: Dr. Zhandong Liu, Dr. Sheng Li, Dr. Kewei Sha, Roshini Gnanamoorthy, Vipasha Rana, Siddharth Lucky Reddy, Krishna Teja Talasila
+
+Topics discussed: 
+1. Discussion on the overview of the project
+2. Getting an idea of unity.
+3. Designing the website.
+4. Working on github.
+5. Role assignment for the upcoming week and arranging meeting minutes.
+6. Discussion about requirements material for the project.
+7. Planning to visit Hermann Memorial Hospital to get a clear idea. 
+
+Action Items: 
+1. Complete Project and deploy it. 
+Expected Completion Time: within 1 week
+2. Work on Requirement Document. 
+Expected Completion Time: 02/05/2018 
+
+3. Read documents on Unity and get clear idea about it. 
+Expected Completion Time: within 1 week
+4. Visit Hermann Memorial Hospital.
+Expected Completion Time: 02/02/2018 
+
+

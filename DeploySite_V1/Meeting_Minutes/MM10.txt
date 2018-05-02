@@ -1,0 +1,12 @@
+Meeting Minutes #10
+Team Name: VRInGame
+Date & Time: 03/25/2018, 2:00 p.m. – 4.00 p.m.,
+Location: Delta
+Attendees: Roshini Gnanamoorthy, Vipasha Rana, Siddharth Lucky Reddy, Krishna Teja Talasila
+
+Topics discussed: 
+1) To integrate the movement of dolphin and threshold.
+2) Making changes in the terrain physics
+3) Implementing the code for threshold reading the csv file and finding points greater than the threshold.
+4) Sucessful implementation on the socket communication.
+5) Work in DAC code to achieve real time scenario. 

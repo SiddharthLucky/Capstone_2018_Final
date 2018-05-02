@@ -1,0 +1,10 @@
+Meeting Minutes #6
+Team Name: VRInGame
+Date & Time: 02/25/2018, 2:00 p.m. – 4.00 p.m.,
+Location: Delta
+Attendees: Roshini Gnanamoorthy, Vipasha Rana, Siddharth Lucky Reddy, Krishna Teja Talasila
+
+Topics discussed: 
+1. Discussion on Design document. 
+2. Discussion on Presentation of the design document.
+3. Discussion about configuration of a computer that can be useful for the project.
