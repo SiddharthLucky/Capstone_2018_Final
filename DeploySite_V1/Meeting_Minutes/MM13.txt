@@ -5,3 +5,7 @@ Location: Delta
 Attendees: Roshini Gnanamoorthy, Vipasha Rana, Siddharth Lucky Reddy, Krishna Teja Talasila
 
 Topics discussed: 
+1.Completing the technical report.
+2.Start working on the final presentation.
+3.Visit the lab to show complete demonstration of the project.
+4.Implementing the DAQ device code and integrate the whole code together.

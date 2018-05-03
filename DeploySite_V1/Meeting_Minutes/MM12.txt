@@ -5,4 +5,6 @@ Location: Delta
 Attendees: Roshini Gnanamoorthy, Vipasha Rana, Siddharth Lucky Reddy, Krishna Teja Talasila
 
 Topics discussed: 
-
+1)Finished the dolphin movement, fish generation and random movement using AI
+2) Read MatLab tutorials and implemented the code for threshold reading the csv file and
+3) Worked on code for integrating the movement of dolphin and threshold.
