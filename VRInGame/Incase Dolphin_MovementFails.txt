@@ -1,0 +1,151 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Dolphin_Movement_Random : MonoBehaviour
+{
+    [HideInInspector]
+    public float Timer, Pick_Time;
+    [HideInInspector]
+    public float speed_Picker, Vert_speed, Hori_speed;
+    [HideInInspector]
+    public int directionVal, Pick_direction;
+    [HideInInspector]
+    public int angle1, angle2, angle3, angle4, angle5, angle6;
+    [HideInInspector]
+    public string Direction_toGo, dic_string_Picker;
+    [HideInInspector]
+    public int global_Counter;
+
+    // Use this for initialization
+    void Start()
+    {
+        //Timer = RandomTime();
+        //Vert_speed = 1.5f;
+        //Hori_speed = RandomSpeed();
+        //directionVal = Direction_picker();
+        //Direction_toGo = direction_String_Picker();
+        //Update(Timer, Vert_speed, Hori_speed, directionVal.ToString(), Direction_toGo.ToString());
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        //Variable initializations to put in values from the parametrs.
+        float Conv_TimeVal, Conv_Vert_sp, Conv_Hori_sp;
+        string Conv_directval, Conv_directToGo;
+
+        //Assigning the parameter values to the initialiized variables.
+        Conv_TimeVal = RandomTime();
+        Conv_Vert_sp = 1.5f;
+        Conv_Hori_sp = RandomSpeed();
+        Conv_directval = Direction_picker().ToString();
+        Conv_directToGo = direction_String_Picker().ToString();
+        float useless;
+        if (Conv_directToGo == "forward")
+        {
+            //Conv_TimeVal = Conv_TimeVal - Time.deltaTime;
+            if (Conv_TimeVal > 0)
+            {
+                transform.Translate(Vector3.forward * Time.deltaTime, Space.World);
+                //* Conv_Hori_sp
+            }
+            Update();
+        }
+        //if (Conv_directToGo == "backward")
+        //{
+        //    //Conv_TimeVal = Conv_TimeVal - Time.deltaTime;
+        //    if (Conv_TimeVal > 0)
+        //    {
+        //        transform.Translate(Vector3.back * Conv_Hori_sp * Time.deltaTime, Space.World);
+        //        //*Conv_Hori_sp
+        //    }
+        //    Update();
+        //}
+        //if (Conv_directToGo == "left")
+        //{
+        //    //Conv_TimeVal = Conv_TimeVal - Time.deltaTime;
+        //    if (Conv_TimeVal > 0)
+        //    {
+        //        transform.Translate(Vector3.left * Conv_Hori_sp * Time.deltaTime, Space.World);
+        //        //* Conv_Hori_sp
+        //    }
+        //    Update();
+        //}
+        //if (Conv_directToGo == "right")
+        //{
+        //    //Conv_TimeVal = Conv_TimeVal - Time.deltaTime;
+        //    if (Conv_TimeVal > 0)
+        //    {
+        //        transform.Translate(Vector3.right * Conv_Hori_sp * Time.deltaTime, Space.World);
+        //        //*Conv_Hori_sp
+        //    }
+        //    Update();
+        //}
+        if (Conv_directToGo == "upwards")
+        {
+            //Conv_TimeVal = Conv_TimeVal - Time.deltaTime;
+            if (Conv_TimeVal > 0)
+            {
+                transform.Translate(Vector3.up * Time.deltaTime, Space.World);
+                //* Vert_speed
+            }
+            Update();
+        }
+        if (Conv_directToGo == "downwards")
+        {
+            //Conv_TimeVal = Conv_TimeVal - Time.deltaTime;
+            if (Conv_TimeVal > 0)
+            {
+                transform.Translate(Vector3.down * Time.deltaTime, Space.World);
+                //* Vert_speed
+            }
+            Update();
+        }
+    }
+
+
+    //Function Area
+    float RandomTime()
+    {
+        Pick_Time = Random.Range(3, 5);
+        return Pick_Time;
+    }
+
+    float RandomSpeed()
+    {
+        speed_Picker = Random.Range(2,2);
+        return speed_Picker;
+    }
+
+    int Direction_picker()
+    {
+        angle1 = Random.Range(0, 9);
+        angle2 = Random.Range(9, 18);
+        angle3 = Random.Range(18, 27);
+        angle4 = Random.Range(27, 36);
+        angle5 = Random.Range(36, 45);
+        angle6 = Random.Range(45, 72);
+        int[] dic_Picker_Arr = { angle1, angle2, angle3, angle4, angle5, angle6 };
+        Pick_direction = dic_Picker_Arr[Random.Range(0, 5)] * 5;
+        return Pick_direction;
+    }
+
+    string direction_String_Picker()
+    {
+        string[] directions = { "forward", "upwards", "downwards" };
+        string directionName = directions[Random.Range(0, 2)].ToString();
+        return directionName;
+    }
+
+    //void ResetValues()
+    //{
+    //    Timer = RandomTime();
+    //    Vert_speed = 1.5f;
+    //    Hori_speed = RandomSpeed();
+    //    directionVal = Direction_picker();
+    //    Direction_toGo = direction_String_Picker();
+    //    Update();
+    //    global_Counter += 1;
+    //}
+}
